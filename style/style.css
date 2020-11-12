@@ -1,0 +1,126 @@
+/*global*/
+body {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+}
+
+.main {
+    display: flex;
+    width: 1440px;
+    height: 100vh;
+}
+/*index.php*/
+
+.main_wrap {
+    display: flex;
+    width: 100%;
+    background-color: #141518;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.main_wrap-title {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.main_wrap-title h1 {
+    font-family: 'PT Serif', serif;
+    margin: 0;
+    font-size: 6vh;
+    text-transform: uppercase;
+    color: #fe6807;
+}
+.main_wrap-title h2 {
+    font-family: 'PT Serif', serif;
+    margin: 0;
+    font-size: 3vh;
+    text-transform: uppercase;
+    color: #fe6807;
+}
+
+.main_wrap-container-img {
+    width: 65vh;
+    height: 65vh;
+    padding: 0.5em;
+}
+
+.main_wrap-img {
+    width: 65vh;
+    height: 65vh;
+    position: absolute;
+    z-index: 0;
+}
+
+.main_wrap-form {
+    display: flex;
+    flex-direction: column;
+    width: 65vh;
+    height: 65vh;
+    opacity: 0.2;
+    align-items: center;
+    z-index: 1;
+    justify-content: center;
+}
+
+.main_wrap-form-item {
+    font-family: 'PT Serif', serif;
+    font-size: 2vh;
+    width: 40%;
+    height: 7%;
+    z-index: 1;
+    margin: 0.2em;
+    text-align: center;
+}
+
+.main_wrap-form-item-btm {
+    width: 15%;
+    height: 7%;
+    font-size: 1.5vh;
+}
+
+.main_wrap-telegram {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.main_wrap-telegram h3 {
+    font-family: 'PT Serif', serif;
+    font-size: 2vh;
+    margin: 0;
+}
+
+.main_wrap-telegram a {
+    text-decoration: none;
+    color: white;
+}
+
+.main_wrap-telegram-item {
+    display: flex;
+    width: 15vh;
+    height: 15vh;
+    background-color: #fff;
+    border-radius: 1.5em;
+    align-items: center;
+    justify-content: center;
+}
+
+.main_wrap-telegram-item a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 15vh;
+    height: 15vh;
+}
+
+.main_telegram-img {
+    width: 12vh;
+    height: 12vh;
+}
