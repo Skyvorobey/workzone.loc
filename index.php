@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style/style.css">
-    <title>Workzone.loc</title>
+    <title>workzone.loc</title>
 </head>
 <body>
     <main class="main">
@@ -39,6 +39,6 @@
 </body>
 <footer class="footer">
     <p>&copy 2020 workzone.loc.</p>
-    <p>Website: <a href="https://www.skyvorobey.ru">www.skyvorobey.ru</a> Telegram:<a href="tg://resolve?domain=@skyvorobey">@skyvorobey</a></p>
+    <p>Website: <a href="https://www.skyvorobey.ru">www.workzone.loc</a> Telegram:<a href="tg://resolve?domain=@skyvorobey">@skyvorobey</a></p>
 </footer>
 </html>
