@@ -34,9 +34,11 @@
                 </div>
                 <h3><a href="tg://resolve?domain=@skyvorobey">Связь со мной</a></h3>
             </div>
-
         </div>
-
     </main>
 </body>
+<footer class="footer">
+    <p>&copy 2020 skyvorobey.loc.</p>
+    <p>Website: <a href="https://www.skyvorobey.ru">www.skyvorobey.ru</a> Telegram:<a href="tg://resolve?domain=@skyvorobey">@skyvorobey</a></p>
+</footer>
 </html>
