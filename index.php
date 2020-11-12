@@ -39,6 +39,6 @@
 </body>
 <footer class="footer">
     <p>&copy 2020 workzone.loc.</p>
-    <p>Website: <a href="https://www.skyvorobey.ru">www.workzone.loc</a> Telegram:<a href="tg://resolve?domain=@skyvorobey">@skyvorobey</a></p>
+    <p>Author: Website: <a href="https://www.skyvorobey.ru">www.skyvorobey.ru</a> Telegram:<a href="tg://resolve?domain=@skyvorobey">@skyvorobey</a></p>
 </footer>
 </html>
